@@ -87,7 +87,10 @@ document.addEventListener("DOMContentLoaded", function() {
             bookUsersUl.append(userLi);
         });
         bookInfo.append(bookUsersUl);
-    };
+    }
 
-    booksList();
+    booksList()
+
+
+    
 })
